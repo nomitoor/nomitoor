@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **researcher.naumantoor@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/nomitoor/nauman-toor-resume/blob/main/Nauman%20Javed%20Resume%202023.pdf](https://github.com/nomitoor/nauman-toor-resume/blob/main/Nauman%20Javed%20Resume%202023.pdf)
+- 📄 Know about my experiences [https://github.com/nomitoor/nauman-toor-resume/blob/main/Nauman%20Javed%20Resume%202023.pdf](Resume)
 
 - ⚡ Fun fact **I think I can make you laugh**
 
